@@ -24,7 +24,7 @@ A structured help center with troubleshooting articles.
 ### 3. Documentation Rewrite Sample
 A before-and-after comparison of an installation guide demonstrating editing and clarity improvements.
 
-[View Articles](rewrite-sample/installation-guide-taskflow.md)
+[View Documents](rewrite-sample/installation-guide-taskflow.md)
 
 ---
 
